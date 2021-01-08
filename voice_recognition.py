@@ -1,3 +1,11 @@
+#
+#   Author: Pulsar 
+#   Year: 12020 (Holozän) | 2020 (gregorianisch)
+#   Python Version: 3.8.2
+#   GitHub: https://www.gihub.com/Woodnet
+#   Version: 1.0.0 (BETA)
+#   Recommended Operating System (OS): Windows 10 
+#
 import speech_recognition as sr
 import sys,os
 
