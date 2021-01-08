@@ -1,9 +1,9 @@
 # Voice-Recognition
 An Audio-File-Voice-Recognition
-# Installierung 
+# Installition 
 
     pip install SpeechRecognition
 
-wenn Python2 ebenfals auf dem System installiert ist:
+when Python2 is also downloaded on the System:
   
     pip3 install SpeechRecognition
