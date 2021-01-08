@@ -20,7 +20,10 @@ daten = {
 }
 
 if __name__ == '__main__':
-    os.system("cls") #Windows -default
+    try:
+        os.system("cls") #Windows -default
+    except Exception:
+        os.system("clear") #Linux OS
     zähler = 0
     for file in daten['files']:
         z = zähler
