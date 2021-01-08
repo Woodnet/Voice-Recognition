@@ -15,8 +15,7 @@ def s_p(nachricht):
 
 daten = {
     'files':[
-        "datei_1.wav", 
-        "datei_2.wav",
+        "[File-Name_1]", #File Name of .wav-File for example 
     ],
 }
 
