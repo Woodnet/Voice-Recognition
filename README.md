@@ -1,6 +1,6 @@
 # Voice-Recognition
 An Audio-File-Voice-Recognition
-# Use 
+# How to use 
 
     pip install SpeechRecognition
 
